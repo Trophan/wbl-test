@@ -1,0 +1,89 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.45.0",
+  "hash": "1467812ffdf6f6ee280b",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\User\\Desktop\\wbl-design\\wbl-design-theme\\build\\static",
+  "assetsByChunkName": {
+    "wbl-design-theme": [
+      "wbl-design-theme.module.js",
+      "wbl-design-theme.88f64b0b4d88ce118787.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "88f64b0b4d88ce118787.hot-update.json",
+      "size": 58,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "wbl-design-theme.88f64b0b4d88ce118787.hot-update.js",
+      "size": 2634,
+      "chunks": [
+        "wbl-design-theme"
+      ],
+      "chunkNames": [
+        "wbl-design-theme"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "wbl-design-theme.module.js",
+      "size": 4951023,
+      "chunks": [
+        "wbl-design-theme"
+      ],
+      "chunkNames": [
+        "wbl-design-theme"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "wbl-design-theme": {
+      "chunks": [
+        "wbl-design-theme"
+      ],
+      "assets": [
+        "wbl-design-theme.module.js",
+        "wbl-design-theme.88f64b0b4d88ce118787.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "wbl-design-theme": {
+      "chunks": [
+        "wbl-design-theme"
+      ],
+      "assets": [
+        "wbl-design-theme.module.js",
+        "wbl-design-theme.88f64b0b4d88ce118787.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
